@@ -1,0 +1,1 @@
+Ошибка 404, странница <b><?= $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'] ?></b> не найдено!
